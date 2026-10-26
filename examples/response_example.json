@@ -1,0 +1,94 @@
+{
+  "schema_version": "1.0",
+  "id": "case-001",
+  "success": true,
+  "answer": "上海到北京的球面距离约为 1067.31 公里（1067310.12 米）。",
+  "process": {
+    "kb_context": "[1] Haversine 距离公式\n    描述: ...",
+    "kb_hits": [
+      {
+        "title": "Haversine 距离公式",
+        "description": "Haversine 公式用于计算地球表面两点之间的球面距离...",
+        "keywords": ["距离", "haversine", "球面"]
+      }
+    ],
+    "steps": [
+      {
+        "step": 1,
+        "type": "kb_retrieve",
+        "status": "ok",
+        "name": "KnowledgeBase.search",
+        "args": {},
+        "result": {"preview": "..."},
+        "message": "领域知识检索完成",
+        "elapsed_ms": 0.0
+      },
+      {
+        "step": 2,
+        "type": "tool_call",
+        "status": "ok",
+        "name": "resolve_place",
+        "args": {"name": "上海"},
+        "result": {
+          "success": true,
+          "operator": "resolve_place",
+          "result": {"name": "上海", "lat": 31.2304, "lon": 121.4737}
+        },
+        "message": "解析成功",
+        "elapsed_ms": 2.1
+      },
+      {
+        "step": 3,
+        "type": "tool_call",
+        "status": "ok",
+        "name": "resolve_place",
+        "args": {"name": "北京"},
+        "result": {
+          "success": true,
+          "operator": "resolve_place",
+          "result": {"name": "北京", "lat": 39.9042, "lon": 116.4074}
+        },
+        "message": "解析成功",
+        "elapsed_ms": 1.0
+      },
+      {
+        "step": 4,
+        "type": "tool_call",
+        "status": "ok",
+        "name": "haversine_distance",
+        "args": {
+          "lat1": 31.2304,
+          "lon1": 121.4737,
+          "lat2": 39.9042,
+          "lon2": 116.4074
+        },
+        "result": {
+          "success": true,
+          "operator": "haversine_distance",
+          "result": 1067310.12,
+          "unit": "米"
+        },
+        "message": "两点间距离为 1067.31 公里",
+        "elapsed_ms": 0.3
+      },
+      {
+        "step": 5,
+        "type": "llm_answer",
+        "status": "ok",
+        "name": "final_answer",
+        "args": {},
+        "result": null,
+        "message": "生成最终自然语言回答",
+        "elapsed_ms": 0.0
+      }
+    ],
+    "final_status": "completed"
+  },
+  "error": null,
+  "meta": {
+    "elapsed_ms": 1820.5,
+    "model": "gpt-4o",
+    "tool_call_count": 3,
+    "operator_names": ["resolve_place", "resolve_place", "haversine_distance"]
+  }
+}

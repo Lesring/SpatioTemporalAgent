@@ -1,0 +1,6 @@
+{
+  "api_base": "https://api.openai.com/v1",
+  "api_key": "在这里填入你的 API Key",
+  "model": "gpt-4o",
+  "_说明": "不同服务商的 api_base 示例：OpenAI=https://api.openai.com/v1, DeepSeek=https://api.deepseek.com/v1, 通义/阿里百炼=https://dashscope.aliyuncs.com/compatible-mode/v1"
+}

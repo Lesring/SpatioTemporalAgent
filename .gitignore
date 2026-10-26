@@ -1,0 +1,34 @@
+# secrets / local config
+**/config.json
+.env
+.env.*
+!.env.example
+
+# python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+dist/
+build/
+.venv/
+venv/
+.envrc
+
+# ide / os
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+
+# logs / runtime
+*.log
+logs/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# data writebacks that may grow noisily (keep seed places tracked)
+# nominatim writebacks stay in places.json — tracked intentionally for demos

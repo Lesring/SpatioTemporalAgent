@@ -1,0 +1,1162 @@
+{
+  "places": [
+    {
+      "name": "上海",
+      "lat": 31.2304,
+      "lon": 121.4737,
+      "type": "city",
+      "aliases": [
+        "上海市",
+        "Shanghai"
+      ]
+    },
+    {
+      "name": "北京",
+      "lat": 39.9042,
+      "lon": 116.4074,
+      "type": "city",
+      "aliases": [
+        "北京市",
+        "Beijing"
+      ]
+    },
+    {
+      "name": "广州",
+      "lat": 23.1291,
+      "lon": 113.2644,
+      "type": "city",
+      "aliases": [
+        "广州市",
+        "Guangzhou"
+      ]
+    },
+    {
+      "name": "深圳",
+      "lat": 22.5431,
+      "lon": 114.0579,
+      "type": "city",
+      "aliases": [
+        "深圳市",
+        "Shenzhen"
+      ]
+    },
+    {
+      "name": "成都",
+      "lat": 30.5728,
+      "lon": 104.0668,
+      "type": "city",
+      "aliases": [
+        "成都市",
+        "Chengdu"
+      ]
+    },
+    {
+      "name": "杭州",
+      "lat": 30.2741,
+      "lon": 120.1551,
+      "type": "city",
+      "aliases": [
+        "杭州市",
+        "Hangzhou"
+      ]
+    },
+    {
+      "name": "武汉",
+      "lat": 30.5928,
+      "lon": 114.3055,
+      "type": "city",
+      "aliases": [
+        "武汉市",
+        "Wuhan"
+      ]
+    },
+    {
+      "name": "西安",
+      "lat": 34.3416,
+      "lon": 108.9398,
+      "type": "city",
+      "aliases": [
+        "西安市",
+        "Xi'an"
+      ]
+    },
+    {
+      "name": "南京",
+      "lat": 32.0603,
+      "lon": 118.7969,
+      "type": "city",
+      "aliases": [
+        "南京市",
+        "Nanjing"
+      ]
+    },
+    {
+      "name": "重庆",
+      "lat": 29.563,
+      "lon": 106.5516,
+      "type": "city",
+      "aliases": [
+        "重庆市",
+        "Chongqing"
+      ]
+    },
+    {
+      "name": "天津",
+      "lat": 39.0842,
+      "lon": 117.201,
+      "type": "city",
+      "aliases": [
+        "天津市",
+        "Tianjin"
+      ]
+    },
+    {
+      "name": "苏州",
+      "lat": 31.3015,
+      "lon": 120.5898,
+      "type": "city",
+      "aliases": [
+        "苏州市",
+        "Suzhou"
+      ]
+    },
+    {
+      "name": "青岛",
+      "lat": 36.0671,
+      "lon": 120.3826,
+      "type": "city",
+      "aliases": [
+        "青岛市",
+        "Qingdao"
+      ]
+    },
+    {
+      "name": "大连",
+      "lat": 38.914,
+      "lon": 121.6147,
+      "type": "city",
+      "aliases": [
+        "大连市",
+        "Dalian"
+      ]
+    },
+    {
+      "name": "厦门",
+      "lat": 24.4798,
+      "lon": 118.0894,
+      "type": "city",
+      "aliases": [
+        "厦门市",
+        "Xiamen"
+      ]
+    },
+    {
+      "name": "昆明",
+      "lat": 24.8801,
+      "lon": 102.8329,
+      "type": "city",
+      "aliases": [
+        "昆明市",
+        "Kunming"
+      ]
+    },
+    {
+      "name": "拉萨",
+      "lat": 29.65,
+      "lon": 91.1,
+      "type": "city",
+      "aliases": [
+        "拉萨市",
+        "Lhasa"
+      ]
+    },
+    {
+      "name": "乌鲁木齐",
+      "lat": 43.8256,
+      "lon": 87.6168,
+      "type": "city",
+      "aliases": [
+        "乌鲁木齐市",
+        "Urumqi"
+      ]
+    },
+    {
+      "name": "哈尔滨",
+      "lat": 45.8038,
+      "lon": 126.534,
+      "type": "city",
+      "aliases": [
+        "哈尔滨市",
+        "Harbin"
+      ]
+    },
+    {
+      "name": "长春",
+      "lat": 43.8171,
+      "lon": 125.3235,
+      "type": "city",
+      "aliases": [
+        "长春市",
+        "Changchun"
+      ]
+    },
+    {
+      "name": "沈阳",
+      "lat": 41.8057,
+      "lon": 123.4315,
+      "type": "city",
+      "aliases": [
+        "沈阳市",
+        "Shenyang"
+      ]
+    },
+    {
+      "name": "济南",
+      "lat": 36.6512,
+      "lon": 117.001,
+      "type": "city",
+      "aliases": [
+        "济南市",
+        "Jinan"
+      ]
+    },
+    {
+      "name": "郑州",
+      "lat": 34.7465,
+      "lon": 113.6254,
+      "type": "city",
+      "aliases": [
+        "郑州市",
+        "Zhengzhou"
+      ]
+    },
+    {
+      "name": "合肥",
+      "lat": 31.8206,
+      "lon": 117.2272,
+      "type": "city",
+      "aliases": [
+        "合肥市",
+        "Hefei"
+      ]
+    },
+    {
+      "name": "福州",
+      "lat": 26.0745,
+      "lon": 119.2965,
+      "type": "city",
+      "aliases": [
+        "福州市",
+        "Fuzhou"
+      ]
+    },
+    {
+      "name": "南昌",
+      "lat": 28.682,
+      "lon": 115.8579,
+      "type": "city",
+      "aliases": [
+        "南昌市",
+        "Nanchang"
+      ]
+    },
+    {
+      "name": "长沙",
+      "lat": 28.2282,
+      "lon": 112.934,
+      "type": "city",
+      "aliases": [
+        "长沙市",
+        "Changsha"
+      ]
+    },
+    {
+      "name": "贵阳",
+      "lat": 26.647,
+      "lon": 106.6302,
+      "type": "city",
+      "aliases": [
+        "贵阳市",
+        "Guiyang"
+      ]
+    },
+    {
+      "name": "南宁",
+      "lat": 22.817,
+      "lon": 108.3665,
+      "type": "city",
+      "aliases": [
+        "南宁市",
+        "Nanning"
+      ]
+    },
+    {
+      "name": "海口",
+      "lat": 20.044,
+      "lon": 110.3417,
+      "type": "city",
+      "aliases": [
+        "海口市",
+        "Haikou"
+      ]
+    },
+    {
+      "name": "银川",
+      "lat": 38.4872,
+      "lon": 106.2309,
+      "type": "city",
+      "aliases": [
+        "银川市",
+        "Yinchuan"
+      ]
+    },
+    {
+      "name": "兰州",
+      "lat": 36.0611,
+      "lon": 103.8343,
+      "type": "city",
+      "aliases": [
+        "兰州市",
+        "Lanzhou"
+      ]
+    },
+    {
+      "name": "西宁",
+      "lat": 36.6171,
+      "lon": 101.7782,
+      "type": "city",
+      "aliases": [
+        "西宁市",
+        "Xining"
+      ]
+    },
+    {
+      "name": "呼和浩特",
+      "lat": 40.8414,
+      "lon": 111.7519,
+      "type": "city",
+      "aliases": [
+        "呼和浩特市",
+        "Hohhot"
+      ]
+    },
+    {
+      "name": "太原",
+      "lat": 37.8706,
+      "lon": 112.5491,
+      "type": "city",
+      "aliases": [
+        "太原市",
+        "Taiyuan"
+      ]
+    },
+    {
+      "name": "石家庄",
+      "lat": 38.0428,
+      "lon": 114.5149,
+      "type": "city",
+      "aliases": [
+        "石家庄市",
+        "Shijiazhuang"
+      ]
+    },
+    {
+      "name": "洛阳",
+      "lat": 34.6197,
+      "lon": 112.454,
+      "type": "city",
+      "aliases": [
+        "洛阳市",
+        "Luoyang"
+      ]
+    },
+    {
+      "name": "苏州",
+      "lat": 31.3015,
+      "lon": 120.5898,
+      "type": "city",
+      "aliases": [
+        "苏州市",
+        "Suzhou"
+      ]
+    },
+    {
+      "name": "台北",
+      "lat": 25.033,
+      "lon": 121.5654,
+      "type": "city",
+      "aliases": [
+        "Taipei"
+      ]
+    },
+    {
+      "name": "东京",
+      "lat": 35.6762,
+      "lon": 139.6503,
+      "type": "city",
+      "aliases": [
+        "Tokyo",
+        "日本东京"
+      ]
+    },
+    {
+      "name": "大阪",
+      "lat": 34.6937,
+      "lon": 135.5023,
+      "type": "city",
+      "aliases": [
+        "Osaka"
+      ]
+    },
+    {
+      "name": "首尔",
+      "lat": 37.5665,
+      "lon": 126.978,
+      "type": "city",
+      "aliases": [
+        "Seoul",
+        "韩国首尔"
+      ]
+    },
+    {
+      "name": "新加坡",
+      "lat": 1.3521,
+      "lon": 103.8198,
+      "type": "city",
+      "aliases": [
+        "Singapore",
+        "新加坡市"
+      ]
+    },
+    {
+      "name": "曼谷",
+      "lat": 13.7563,
+      "lon": 100.5018,
+      "type": "city",
+      "aliases": [
+        "Bangkok"
+      ]
+    },
+    {
+      "name": "迪拜",
+      "lat": 25.2048,
+      "lon": 55.2708,
+      "type": "city",
+      "aliases": [
+        "Dubai"
+      ]
+    },
+    {
+      "name": "伦敦",
+      "lat": 51.5074,
+      "lon": -0.1278,
+      "type": "city",
+      "aliases": [
+        "London",
+        "英国伦敦"
+      ]
+    },
+    {
+      "name": "巴黎",
+      "lat": 48.8566,
+      "lon": 2.3522,
+      "type": "city",
+      "aliases": [
+        "Paris",
+        "法国巴黎"
+      ]
+    },
+    {
+      "name": "纽约",
+      "lat": 40.7128,
+      "lon": -74.006,
+      "type": "city",
+      "aliases": [
+        "New York",
+        "美国纽约"
+      ]
+    },
+    {
+      "name": "洛杉矶",
+      "lat": 34.0522,
+      "lon": -118.2437,
+      "type": "city",
+      "aliases": [
+        "Los Angeles",
+        "LA"
+      ]
+    },
+    {
+      "name": "悉尼",
+      "lat": -33.8688,
+      "lon": 151.2093,
+      "type": "city",
+      "aliases": [
+        "Sydney"
+      ]
+    },
+    {
+      "name": "莫斯科",
+      "lat": 55.7558,
+      "lon": 37.6173,
+      "type": "city",
+      "aliases": [
+        "Moscow"
+      ]
+    },
+    {
+      "name": "开罗",
+      "lat": 30.0444,
+      "lon": 31.2357,
+      "type": "city",
+      "aliases": [
+        "Cairo"
+      ]
+    },
+    {
+      "name": "圣保罗",
+      "lat": -23.5475,
+      "lon": -46.6361,
+      "type": "city",
+      "aliases": [
+        "Sao Paulo"
+      ]
+    },
+    {
+      "name": "黄山风景区",
+      "lat": 30.129,
+      "lon": 118.167,
+      "type": "landmark",
+      "aliases": [
+        "黄山",
+        "Huangshan"
+      ]
+    },
+    {
+      "name": "九寨沟",
+      "lat": 33.2702,
+      "lon": 104.2268,
+      "type": "landmark",
+      "aliases": [
+        "Jiuzhaigou"
+      ]
+    },
+    {
+      "name": "敦煌",
+      "lat": 40.1421,
+      "lon": 94.6618,
+      "type": "city",
+      "aliases": [
+        "敦煌市",
+        "Dunhuang"
+      ]
+    },
+    {
+      "name": "张家界",
+      "lat": 29.1195,
+      "lon": 110.481,
+      "type": "city",
+      "aliases": [
+        "张家界市",
+        "Zhangjiajie"
+      ]
+    },
+    {
+      "name": "桂林",
+      "lat": 25.2736,
+      "lon": 110.29,
+      "type": "city",
+      "aliases": [
+        "桂林市",
+        "Guilin"
+      ]
+    },
+    {
+      "name": "武汉大学",
+      "lat": 30.5389,
+      "lon": 114.365,
+      "type": "university",
+      "aliases": [
+        "武大",
+        "Wuhan University",
+        "WHU",
+        "武汉大学·武昌"
+      ]
+    },
+    {
+      "name": "华中科技大学",
+      "lat": 30.5127,
+      "lon": 114.4197,
+      "type": "university",
+      "aliases": [
+        "华科",
+        "HUST",
+        "Huazhong University of Science and Technology",
+        "华中科技大学·光谷"
+      ]
+    },
+    {
+      "name": "清华大学",
+      "lat": 40.0,
+      "lon": 116.3268,
+      "type": "university",
+      "aliases": [
+        "清华",
+        "Tsinghua University",
+        "THU",
+        "清华大学·海淀"
+      ]
+    },
+    {
+      "name": "北京大学",
+      "lat": 39.9997,
+      "lon": 116.3108,
+      "type": "university",
+      "aliases": [
+        "北大",
+        "Peking University",
+        "PKU",
+        "北京大学·海淀"
+      ]
+    },
+    {
+      "name": "复旦大学",
+      "lat": 31.2986,
+      "lon": 121.4981,
+      "type": "university",
+      "aliases": [
+        "复旦",
+        "Fudan University"
+      ]
+    },
+    {
+      "name": "上海交通大学",
+      "lat": 31.0267,
+      "lon": 121.4438,
+      "type": "university",
+      "aliases": [
+        "上交",
+        "SJTU",
+        "Shanghai Jiao Tong University"
+      ]
+    },
+    {
+      "name": "浙江大学",
+      "lat": 30.3089,
+      "lon": 120.0996,
+      "type": "university",
+      "aliases": [
+        "浙大",
+        "Zhejiang University",
+        "ZJU"
+      ]
+    },
+    {
+      "name": "南京大学",
+      "lat": 32.055,
+      "lon": 118.781,
+      "type": "university",
+      "aliases": [
+        "南大",
+        "Nanjing University",
+        "NJU"
+      ]
+    },
+    {
+      "name": "中山大学",
+      "lat": 23.1357,
+      "lon": 113.268,
+      "type": "university",
+      "aliases": [
+        "中大",
+        "Sun Yat-sen University"
+      ]
+    },
+    {
+      "name": "四川大学",
+      "lat": 30.6673,
+      "lon": 104.0676,
+      "type": "university",
+      "aliases": [
+        "川大",
+        "Sichuan University"
+      ]
+    },
+    {
+      "name": "西安交通大学",
+      "lat": 34.218,
+      "lon": 108.945,
+      "type": "university",
+      "aliases": [
+        "西交",
+        "Xi'an Jiaotong University"
+      ]
+    },
+    {
+      "name": "哈尔滨工业大学",
+      "lat": 45.8038,
+      "lon": 126.499,
+      "type": "university",
+      "aliases": [
+        "哈工大",
+        "HIT",
+        "Harbin Institute of Technology"
+      ]
+    },
+    {
+      "name": "同济大学",
+      "lat": 31.26,
+      "lon": 121.5,
+      "type": "university",
+      "aliases": [
+        "同济",
+        "Tongji University"
+      ]
+    },
+    {
+      "name": "东南大学",
+      "lat": 32.053,
+      "lon": 118.792,
+      "type": "university",
+      "aliases": [
+        "东大",
+        "Southeast University"
+      ]
+    },
+    {
+      "name": "中南大学",
+      "lat": 28.17,
+      "lon": 112.94,
+      "type": "university",
+      "aliases": [
+        "中南",
+        "Central South University"
+      ]
+    },
+    {
+      "name": "上海交通大学（闵行校区）",
+      "lat": 31.0275548,
+      "lon": 121.4323084,
+      "type": "city",
+      "aliases": [
+        "上海交通大学（闵行校区）, Dongchuan Road, 江川路街道, 吴泾镇, 闵行区, 上海市, 200240, 中国",
+        "university"
+      ],
+      "_origin": "nominatim"
+    },
+    {
+      "name": "厦门大学",
+      "lat": 24.4399419,
+      "lon": 118.0930178,
+      "type": "city",
+      "aliases": [
+        "厦门大学, 422, 思明南路, 巡司顶社区, 滨海街道, 思明区, 厦门市, 福建省, 361005, 中国"
+      ],
+      "_origin": "nominatim"
+    },
+    {
+      "name": "中国科学技术大学",
+      "lat": 31.8436264,
+      "lon": 117.2653221,
+      "type": "city",
+      "aliases": [
+        "中国科学技术大学, 黄山路, 水安公司宿舍, 芜湖路街道, 包河区, 合肥市, 安徽省, 230026, 中国",
+        "bus_stop"
+      ],
+      "_origin": "nominatim"
+    },
+    {
+      "name": "象山北路",
+      "lat": 28.6816331,
+      "lon": 115.8864115,
+      "type": "city",
+      "aliases": [
+        "象山北路, 瓦戊WOW八一馆商圈, 渊明北路社区, 百花洲街道, 东湖区, 南昌市, 江西省, 330006, 中国",
+        "primary"
+      ],
+      "_origin": "nominatim"
+    },
+    {
+      "name": "解放公园",
+      "lat": 38.48304,
+      "lon": 106.1463371,
+      "type": "city",
+      "aliases": [
+        "解放公园, 西花园街道, 西夏区, 银川市, 宁夏回族自治区, 中国",
+        "park"
+      ],
+      "_origin": "nominatim"
+    },
+    {
+      "name": "中山公园",
+      "lat": 31.2233192,
+      "lon": 121.4156242,
+      "type": "city",
+      "aliases": [
+        "中山公园, 华阳路街道, 法华, 长宁区, 上海市, 中国",
+        "wood"
+      ],
+      "_origin": "nominatim"
+    },
+    {
+      "name": "Turtle Hill Park",
+      "lat": 51.0329345,
+      "lon": -114.155526,
+      "type": "city",
+      "aliases": [
+        "Turtle Hill Park, Glendale, Calgary, Alberta, Canada"
+      ],
+      "_origin": "nominatim"
+    },
+    {
+      "name": "洪山广场",
+      "lat": 30.5478885,
+      "lon": 114.3316631,
+      "type": "city",
+      "aliases": [
+        "洪山广场, 中南路, 水果湖街道, 武昌区, 武汉市, 湖北省, 430060, 中国",
+        "station"
+      ],
+      "_origin": "nominatim"
+    },
+    {
+      "name": "东湖生态旅游风景区",
+      "lat": 30.5649325,
+      "lon": 114.3612972,
+      "type": "city",
+      "aliases": [
+        "东湖生态旅游风景区, 武昌区, 武汉市, 湖北省, 中国",
+        "administrative"
+      ],
+      "_origin": "nominatim"
+    },
+    {
+      "name": "陶然亭公园",
+      "lat": 39.8739173,
+      "lon": 116.3770654,
+      "type": "city",
+      "aliases": [
+        "陶然亭公园, 首都功能核心区, 西城区, 北京市, 100032, 中国"
+      ],
+      "_origin": "nominatim"
+    },
+    {
+      "name": "洛阳花果山国家森林公园",
+      "lat": 34.3481272,
+      "lon": 111.8372684,
+      "type": "city",
+      "aliases": [
+        "洛阳花果山国家森林公园, 张坞镇, 宜阳县, 洛阳市, 河南省, 中国"
+      ],
+      "_origin": "nominatim"
+    },
+    {
+      "name": "洪山公园",
+      "lat": 36.647468,
+      "lon": 117.0838278,
+      "type": "city",
+      "aliases": [
+        "洪山公园, 姚家街道, 历下区, 济南市, 山东省, 250000, 中国"
+      ],
+      "_origin": "nominatim"
+    },
+    {
+      "name": "习水东风湖国家湿地公园",
+      "lat": 28.3293876,
+      "lon": 106.2196708,
+      "type": "city",
+      "aliases": [
+        "习水东风湖国家湿地公园, 九龙街道, 习水县, 遵义市, 贵州省, 中国"
+      ],
+      "_origin": "nominatim"
+    },
+    {
+      "name": "武昌江滩公园",
+      "lat": 30.6102362,
+      "lon": 114.3339809,
+      "type": "city",
+      "aliases": [
+        "武昌江滩公园, 杨园街道, 武昌区, 武汉市, 湖北省, 中国"
+      ],
+      "_origin": "nominatim"
+    },
+    {
+      "name": "东湖听涛景区",
+      "lat": 30.5651328,
+      "lon": 114.36891,
+      "type": "city",
+      "aliases": [
+        "东湖听涛景区, 东湖生态旅游风景区, 武昌区, 武汉市, 湖北省, 中国"
+      ],
+      "_origin": "nominatim"
+    },
+    {
+      "name": "湖北大学琴园小区",
+      "lat": 30.5756406,
+      "lon": 114.3236065,
+      "type": "city",
+      "aliases": [
+        "湖北大学琴园小区, 徐家棚街道, 武昌区, 武汉市, 湖北省, 中国",
+        "residential"
+      ],
+      "_origin": "nominatim"
+    },
+    {
+      "name": "东湖绿道",
+      "lat": 30.5829252,
+      "lon": 114.4113299,
+      "type": "city",
+      "aliases": [
+        "东湖绿道, 东湖风景区街道（洪山）, 东湖生态旅游风景区, 洪山区, 武汉市, 湖北省, 430077, 中国",
+        "unclassified"
+      ],
+      "_origin": "nominatim"
+    },
+    {
+      "name": "珞珈山",
+      "lat": 30.5369429,
+      "lon": 114.3646204,
+      "type": "city",
+      "aliases": [
+        "珞珈山, 武汉市, 湖北省, 430072, 中国",
+        "peak"
+      ],
+      "_origin": "nominatim"
+    },
+    {
+      "name": "武汉园博园",
+      "lat": 30.6245468,
+      "lon": 114.2163484,
+      "type": "city",
+      "aliases": [
+        "武汉园博园, 长丰街道, 硚口区, 武汉市, 湖北省, 中国"
+      ],
+      "_origin": "nominatim"
+    },
+    {
+      "name": "喻家山",
+      "lat": 30.5228144,
+      "lon": 114.4125828,
+      "type": "city",
+      "aliases": [
+        "喻家山, 武汉市, 湖北省, 430074, 中国"
+      ],
+      "_origin": "nominatim"
+    },
+    {
+      "name": "行吟阁",
+      "lat": 30.567328,
+      "lon": 114.3711233,
+      "type": "city",
+      "aliases": [
+        "行吟阁, 沿湖大道, 东湖风景区街道（武昌）, 东湖生态旅游风景区, 武昌区, 武汉市, 湖北省, 430077, 中国",
+        "attraction"
+      ],
+      "_origin": "nominatim"
+    },
+    {
+      "name": "中山大学东南门",
+      "lat": 22.802502,
+      "lon": 113.9561763,
+      "type": "city",
+      "aliases": [
+        "中山大学东南门, 公常路辅路, 圳美, 新湖街道, 光明区, 深圳市, 广东省, 518107, 中国"
+      ],
+      "_origin": "nominatim"
+    },
+    {
+      "name": "九峰山森林公园",
+      "lat": 36.5771708,
+      "lon": 113.7769143,
+      "type": "city",
+      "aliases": [
+        "九峰山森林公园, 涉县, 邯郸市, 河北省, 056000, 中国",
+        "nature_reserve"
+      ],
+      "_origin": "nominatim"
+    },
+    {
+      "name": "郁家山下",
+      "lat": 30.027706,
+      "lon": 120.2180049,
+      "type": "city",
+      "aliases": [
+        "郁家山下, 03;S103, 园区无忧, 戴村镇, 萧山区, 杭州市, 浙江省, 中国"
+      ],
+      "_origin": "nominatim"
+    },
+    {
+      "name": "成吉思汗大街哲里木路路口",
+      "lat": 40.856578,
+      "lon": 111.671777,
+      "type": "city",
+      "aliases": [
+        "成吉思汗大街哲里木路路口, 成吉思汗大街, 麻花板社区, 呼伦贝尔北路街道, 新城区 ᠰᠢᠨ᠎ᠡ ᠬᠣᠲᠠ ᠲᠣᠭᠣᠷᠢᠭ, 呼和浩特市, 回民区 ᠬᠣᠲᠣᠩ ᠠᠷᠠᠳ ᠤᠨ ᠲᠣᠭᠣᠷᠢᠭ, 内蒙古自治区 ᠦᠪᠦᠷ ᠮᠣᠩᠭᠤᠯ ᠤᠨ ᠥᠪᠡᠷᠲᠡᠭᠡᠨ ᠵᠠᠰᠠᠬᠣ ᠣᠷᠣᠨ, 中国"
+      ],
+      "_origin": "nominatim"
+    },
+    {
+      "name": "东湖樱花园",
+      "lat": 30.5483222,
+      "lon": 114.4045689,
+      "type": "city",
+      "aliases": [
+        "东湖樱花园, 东湖生态旅游风景区, 武昌区, 武汉市, 湖北省, 中国",
+        "garden"
+      ],
+      "_origin": "nominatim"
+    },
+    {
+      "name": "武汉动物园",
+      "lat": 30.5447583,
+      "lon": 114.2361352,
+      "type": "city",
+      "aliases": [
+        "武汉动物园, 江城大道, 五里墩街道, 汉阳区, 武汉市, 湖北省, 430050, 中国",
+        "zoo"
+      ],
+      "_origin": "nominatim"
+    },
+    {
+      "name": "小洪山",
+      "lat": 30.5364485,
+      "lon": 114.3433493,
+      "type": "city",
+      "aliases": [
+        "小洪山, 武汉市, 湖北省, 430072, 中国"
+      ],
+      "_origin": "nominatim"
+    },
+    {
+      "name": "鹫峰国家森林公园",
+      "lat": 40.0595306,
+      "lon": 116.0871552,
+      "type": "city",
+      "aliases": [
+        "鹫峰国家森林公园, 苏家坨镇, 海淀区, 北京市, 中国"
+      ],
+      "_origin": "nominatim"
+    },
+    {
+      "name": "落雁景区",
+      "lat": 30.5613533,
+      "lon": 114.4306877,
+      "type": "city",
+      "aliases": [
+        "落雁景区, 东湖生态旅游风景区, 洪山区, 武汉市, 湖北省, 中国"
+      ],
+      "_origin": "nominatim"
+    },
+    {
+      "name": "楚河汉街",
+      "lat": 30.5590081,
+      "lon": 114.3360216,
+      "type": "city",
+      "aliases": [
+        "楚河汉街, 水果湖街道, 武昌区, 武汉市, 湖北省, 中国",
+        "retail"
+      ],
+      "_origin": "nominatim"
+    },
+    {
+      "name": "东湖",
+      "lat": 30.5581846,
+      "lon": 114.398666,
+      "type": "city",
+      "aliases": [
+        "东湖, 武昌区, 武汉市, 湖北省, 中国",
+        "lake"
+      ],
+      "_origin": "nominatim"
+    },
+    {
+      "name": "舵落口江滩公园",
+      "lat": 30.6055499,
+      "lon": 114.160173,
+      "type": "city",
+      "aliases": [
+        "舵落口江滩公园, 慈惠街道, 东西湖区, 武汉市, 湖北省, 中国"
+      ],
+      "_origin": "nominatim"
+    },
+    {
+      "name": "引江补汉（龙潭溪进水口）",
+      "lat": 30.890917,
+      "lon": 110.9731609,
+      "type": "city",
+      "aliases": [
+        "引江补汉（龙潭溪进水口）, 夷陵区, 宜昌市, 湖北省, 中国",
+        "construction"
+      ],
+      "_origin": "nominatim"
+    },
+    {
+      "name": "高円寺谷中緑地",
+      "lat": 35.7025718,
+      "lon": 139.6559426,
+      "type": "city",
+      "aliases": [
+        "高円寺谷中緑地, 高円寺南, 高円寺, 杉並区, 東京都, 166-0003, 日本"
+      ],
+      "_origin": "nominatim"
+    },
+    {
+      "name": "第三乘务员公寓（锦州分局生活段）",
+      "lat": 40.0032061,
+      "lon": 119.7738162,
+      "type": "city",
+      "aliases": [
+        "第三乘务员公寓（锦州分局生活段）, 渤海乡, 山海关区, 秦皇岛市, 河北省, 中国"
+      ],
+      "_origin": "nominatim"
+    },
+    {
+      "name": "首义广场",
+      "lat": 30.5395476,
+      "lon": 114.2999908,
+      "type": "city",
+      "aliases": [
+        "首义广场, 黄鹤楼街道, 武昌区, 武汉市, 湖北省, 中国"
+      ],
+      "_origin": "nominatim"
+    },
+    {
+      "name": "银泰创意城",
+      "lat": 30.5286942,
+      "lon": 114.3510349,
+      "type": "city",
+      "aliases": [
+        "银泰创意城, 珞喻路辅路, 竹园, 珞南街道, 洪山区, 武汉市, 湖北省, 430070, 中国",
+        "mall"
+      ],
+      "_origin": "nominatim"
+    },
+    {
+      "name": "铁路局机关服务所",
+      "lat": 28.6640403,
+      "lon": 115.9123348,
+      "type": "city",
+      "aliases": [
+        "铁路局机关服务所, 铁路四村社区, 南站街道, 西湖区, 南昌市, 江西省, 中国",
+        "industrial"
+      ],
+      "_origin": "nominatim"
+    },
+    {
+      "name": "铁机路",
+      "lat": 30.5949709,
+      "lon": 114.3559789,
+      "type": "city",
+      "aliases": [
+        "铁机路, 和平街道, 洪山区, 武汉市, 湖北省, 430063, 中国",
+        "secondary"
+      ],
+      "_origin": "nominatim"
+    }
+  ],
+  "_meta": {
+    "version": 1,
+    "updated_at": "2026-10-18",
+    "note": "地名词典。Nominatim 在线解析成功后会回填此文件。"
+  }
+}
