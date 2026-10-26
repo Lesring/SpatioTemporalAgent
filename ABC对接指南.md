@@ -277,12 +277,6 @@ const data = await res.json();
 - [ ] C：前端按 `steps` 渲染过程；评测脚本只读契约字段  
 - [ ] 密钥：`config.json` 已 gitignore，勿提交真实 API Key  
 
----
 
-## 8. 联系变更流程
-
-1. 提议方在群里说明：改哪个字段、为何、兼容策略  
-2. 升 `SCHEMA_VERSION`（`agent/schema.py` + 本指南 + API `version`）  
-3. A/B/C 各改各的消费者后合并  
 
 **当前锁定版本：`1.0`。**
